@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![serabiasin's github stats](https://github-readme-stats.vercel.app/api?username=serabiasin)](https://github.com/serabiasin/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=serabiasin&color=orange&style=flat-square)
