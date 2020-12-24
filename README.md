@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 [![serabiasin's github stats](https://github-readme-stats.vercel.app/api?username=serabiasin)](https://github.com/serabiasin/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=serabiasin&color=orange&style=flat-square)
+
+
+- 🔭 I’m currently a Final Student at Telkom University with majoring Computer Engineering
+- 🌱 I’m currently learning Rustlang, and Flutter 
+- 📫 How to reach me: through email or Researchgate.
