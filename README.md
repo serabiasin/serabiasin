@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently a Final Student at Telkom University ,Computer Engineering Department
-- 🌱 I’m currently learning Rustlang, and Flutter 
+- 🌱 I’m currently learning Rustlang, and Golang 
 - 📫 How to reach me: through email or Researchgate.
