@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently a Final Student at Telkom University ,Computer Engineering Department
-- 🌱 I’m currently learning Rustlang, and Golang 
-- 📫 How to reach me: through email or Researchgate.
+- 🔭 Currently Work as Machine Learning Engineer
+- 🌱 I’m currently learning Rustlang, and some system programming. 
+- 📫 How to reach me: through email , Researchgate, or Linkedin.
